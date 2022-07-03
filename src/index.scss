@@ -44,3 +44,26 @@ h5,
 h6 {
   overflow-wrap: break-word;
 }
+
+// css
+.task-wrapp {
+}
+
+.form-control {
+  .input-wrapp {
+    .lable {
+    }
+    .input-control {
+      border: 1px solid #6a5af9;
+    }
+    .erros-message {
+      color: red;
+    }
+  }
+  .btn-submit {
+    padding: 10px;
+    border-radius: 8px;
+    color: #fff;
+    background-color: #6a5af9;
+  }
+}
